@@ -1,1 +1,1 @@
-QUIZ Program using Python using OOP 💖
+QUIZ Program using Python with OOP implementation 💖
